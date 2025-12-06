@@ -19,3 +19,8 @@
     branch = false
     tag = false
     diff = diff-so-fancy | $PAGER
+
+[push]
+    autoSetupRemote = true
+    default = current
+    followTags = true
