@@ -9,6 +9,9 @@
 [receive]
     fsckObjects = true
 
+[fetch]
+    fsckObjects = true
+
 [blame]
     coloring = highlightRecent
 
