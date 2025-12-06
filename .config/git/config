@@ -55,3 +55,9 @@
 
 [tag]
     sort = -taggerdate
+
+[color.decorate]
+    HEAD = red
+    branch = blue
+    tag = yellow
+    remoteBranch = magenta
