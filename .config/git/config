@@ -65,3 +65,6 @@
     branch = blue
     tag = yellow
     remoteBranch = magenta
+
+[url "git@github.com:"]
+    insteadOf = "gh:"
