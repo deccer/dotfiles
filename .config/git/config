@@ -3,6 +3,12 @@
     preloadindex = true
     fsync = none  
 
+[transfer]
+    fsckObjects = true
+
+[receive]
+    fsckObjects = true
+
 [blame]
     coloring = highlightRecent
 
