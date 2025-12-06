@@ -8,3 +8,9 @@
 
 [init]
     defaultBranch = dev
+
+[status]
+    branch = true
+    short = true
+    showStash = true
+    showUntrackedFiles = all
