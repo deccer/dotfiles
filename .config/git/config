@@ -14,3 +14,8 @@
     short = true
     showStash = true
     showUntrackedFiles = all
+
+[pager]
+    branch = false
+    tag = false
+    diff = diff-so-fancy | $PAGER
