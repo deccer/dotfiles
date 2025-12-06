@@ -24,3 +24,19 @@
     autoSetupRemote = true
     default = current
     followTags = true
+
+[pull]
+    rebase = true
+    default = current
+
+[submodule]
+    fetchJobs = 16
+
+[rebase]
+    autoStash = true
+    missingCommitsCheck = warn
+
+[pack]
+    threads = 0
+    windowMemory = 1g
+    packSizeLimit = 1g
