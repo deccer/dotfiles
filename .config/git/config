@@ -2,3 +2,6 @@
     compression = 9
     preloadindex = true
     fsync = none  
+
+[blame]
+    coloring = highlightRecent
