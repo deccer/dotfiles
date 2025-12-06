@@ -49,3 +49,9 @@
     threads = 0
     windowMemory = 1g
     packSizeLimit = 1g
+
+[branch]
+    sort = -committerdate
+
+[tag]
+    sort = -taggerdate
