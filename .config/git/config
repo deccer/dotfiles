@@ -56,6 +56,10 @@
 [tag]
     sort = -taggerdate
 
+[interactive]
+    diffFilter = diff-so-fancy --patch
+    singlekey = true
+
 [color.decorate]
     HEAD = red
     branch = blue
