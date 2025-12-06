@@ -5,3 +5,6 @@
 
 [blame]
     coloring = highlightRecent
+
+[init]
+    defaultBranch = dev
