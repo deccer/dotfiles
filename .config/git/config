@@ -1,0 +1,4 @@
+[core]
+    compression = 9
+    preloadindex = true
+    fsync = none  
